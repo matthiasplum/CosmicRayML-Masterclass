@@ -13,3 +13,14 @@ Contents:
 
 4. Advanced Topics: Delve into advanced topics such as hyperparameter tuning, and tailored for cosmic ray analysis.
 
+
+Requirements:
+Python (3.x)
+Jupyter Notebook
+NumPy
+Pandas
+Scikit-learn
+TensorFlow
+
+Contributors:
+Matthias Plum
