@@ -1,1 +1,15 @@
-First readme
+ Welcome to the CosmicRayML Masterclass GitHub repository!
+
+This repository contains materials for a comprehensive masterclass on applying machine learning techniques to analyze cosmic ray data. Whether you're a seasoned researcher in the field or a newcomer interested in exploring the intersection of astrophysics and machine learning, this masterclass is designed to provide you with the necessary tools and knowledge to tackle challenging problems in cosmic ray analysis.
+
+Contents:
+1. Introduction to Cosmic Rays: Understand the basics of cosmic rays, their origins, and their significance in astrophysics.
+
+2. Introduction to Machine Learning: Learn the fundamental concepts of machine learning, including data preprocessing, model training, and evaluation metrics.
+
+2. Data Preparation: Explore techniques for preprocessing cosmic ray data, handling missing values, and feature engineering.
+
+3. Model Training and Evaluation: Dive into the process of training machine learning models on synthetic cosmic ray datasets and evaluating their performance using appropriate metrics.
+
+4. Advanced Topics: Delve into advanced topics such as hyperparameter tuning, and tailored for cosmic ray analysis.
+
